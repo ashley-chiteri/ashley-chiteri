@@ -1,5 +1,5 @@
 ## Full-Stack Developer
-#Twitter: @je11y6ean
+- Twitter: @je11y6ean
 
 <!--
 **ashley-chiteri/ashley-chiteri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
